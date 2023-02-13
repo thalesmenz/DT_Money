@@ -18,7 +18,7 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased
     }
 
-    border-style, input-security, textarea, button {
+    border-style, input-security, textarea, button, span {
         font: 400 1rem Roboto, sans-serif
     }
 `
